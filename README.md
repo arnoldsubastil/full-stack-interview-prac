@@ -1,6 +1,9 @@
 # full-stack-interview-prac
 
 Commands:
+  - composer update
+  - composer install
+  - npm install
   - npm run dev
   - php artisan serve
   
